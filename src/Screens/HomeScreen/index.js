@@ -10,7 +10,7 @@ export const HomeScreen = () => {
         <img src="logo.png"/>
           <h1>Code Deck</h1>
           <h2>Code.Compile.Debug</h2>
-
+            <h3>Monu</h3>
           <button>
           <span className="material-icons">add</span>
           <span>Create Playground</span>
