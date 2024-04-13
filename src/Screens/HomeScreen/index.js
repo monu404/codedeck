@@ -11,6 +11,7 @@ export const HomeScreen = () => {
           <h1>Code Deck</h1>
           <h2>Code.Compile.Debug</h2>
             <h3>Monu</h3>
+            <p>how are u</p>
           <button>
           <span className="material-icons">add</span>
           <span>Create Playground</span>
